@@ -1,0 +1,284 @@
+[
+  {
+    "id": "2130404",
+    "name": "Sapporo",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "2130658",
+    "name": "Aomori",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "2111834",
+    "name": "Morioka",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "2111149",
+    "name": "Sendai",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "2113126",
+    "name": "Akita",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "2110556",
+    "name": "Yamagata",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "2111656",
+    "name": "Fukushima",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "6822096",
+    "name": "Mito",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1860098",
+    "name": "Utsunomiya",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1851002",
+    "name": "Maebashi",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "6940394",
+    "name": "Saitama",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "2113015",
+    "name": "Chiba",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1850147",
+    "name": "Tokyo",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1848354",
+    "name": "Yokohama",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1855431",
+    "name": "Niigata",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1849876",
+    "name": "Toyama",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1857470",
+    "name": "Kanazawa",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1863985",
+    "name": "Fukui",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1859100",
+    "name": "Kofu",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1856215",
+    "name": "Nagano",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1863641",
+    "name": "Gifu-shi",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1848774",
+    "name": "Shizuoka",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1856057",
+    "name": "Nagoya",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1851348",
+    "name": "Tsu",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1857910",
+    "name": "Otsu",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1857910",
+    "name": "Kyoto",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1853909",
+    "name": "Osaka",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1855207",
+    "name": "Kobe",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1855612",
+    "name": "Nara",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1852383",
+    "name": "Wakayama",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1849892",
+    "name": "Tottori",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1853174",
+    "name": "Matsue",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1851606",
+    "name": "Okayama",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1862415",
+    "name": "Hiroshima",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1848689",
+    "name": "Yamaguchi",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1855580",
+    "name": "Tokushima",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "2110460",
+    "name": "Takamatsu",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1926099",
+    "name": "Matsuyama",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1273874",
+    "name": "Kochi",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "6822146",
+    "name": "Fukuoka",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1853303",
+    "name": "Saga",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1856177",
+    "name": "Nagasaki",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1849069",
+    "name": "Kumamoto",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1854487",
+    "name": "Oita-shi",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1856717",
+    "name": "Miyazaki",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1860827",
+    "name": "Kagoshima",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  },
+  {
+    "id": "1856035",
+    "name": "Naha-shi",
+    "country": "Japan",
+    "country_abbreviation": "JP"
+  }
+]
