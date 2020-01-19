@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "winday"
+    }
+  },
+  "defaultProject": "winday",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
